@@ -1,0 +1,33 @@
+{
+  "name": "session-xp",
+  "version": "1.0.0",
+  "description": "An \"express-session\" storage with mongoose.connection (MongoDB)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rxogum/session-xp.git"
+  },
+  "keywords": [
+    "express",
+    "express-session",
+    "mongodb",
+    "mongoose",
+    "session",
+    "session-store",
+    "storage",
+    "store"
+  ],
+  "author": "Ronis Xogum <ask@xogum.net> (https://github.com/rxogum)",
+  "funding": {
+    "url": "https://ko-fi.com/rxogum"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rxogum/session-xp/issues",
+    "email": "ask@xogum.net"
+  },
+  "homepage": "https://github.com/rxogum/session-xp#readme",
+  "dependencies": {
+    "date-fns": "^2.24.0"
+  }
+}
