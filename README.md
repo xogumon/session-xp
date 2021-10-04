@@ -10,7 +10,7 @@
 
 ## Installation
 
-    $ npm install https://github.com/rxogum/session-xp
+    $ npm install session-xp
 
 ## Example
 
