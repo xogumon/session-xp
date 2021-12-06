@@ -20,12 +20,7 @@ const app = require("express")()
 const session = require("express-session")
 const sessionXp = require("session-xp")
 
-mongoose.connect("MONGODB_URI", {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useFindAndModify: false,
-  useCreateIndex: true,
-});
+mongoose.connect(MONGODB_URI);
 
 app.use(
   session({
