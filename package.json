@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/rxogum/session-xp#readme",
   "dependencies": {
-    "date-fns": "^2.24.0"
+    "date-fns": "^2.27.0"
   }
 }
