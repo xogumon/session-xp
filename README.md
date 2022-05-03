@@ -2,7 +2,7 @@
 
 ----
 
-<p align="center"><img src="https://raw.githubusercontent.com/rxogum/session-xp/main/.github/xp.png"></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xogumon/session-xp/main/.github/xp.png"></a></p>
 <p align="center">An express-session storage with mongoose.connection (MongoDB)</p>
 
 ----

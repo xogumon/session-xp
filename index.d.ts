@@ -1,6 +1,6 @@
 // Type definitions for session-xp
 // Project: session-xp
-// Definitions by: Ronis Xogum <https://github.com/rxogum>
+// Definitions by: Ronis Xogum <https://github.com/xogumon>
 declare module "session-xp" {
     export = sessionXp
     class sessionXp {
